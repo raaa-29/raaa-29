@@ -19,9 +19,6 @@ location: Indonesia 🇮🇩
 education:
   - Industrial Informatics Engineering
 
-currently_building:
-  - Monitoring LPO System
-
 currently_learning:
   - Laravel
   - React
@@ -44,26 +41,6 @@ interests:
 <img src="https://skillicons.dev/icons?i=laravel,react,ts,js,php,mysql,tailwind,html,css,git,github,vscode,figma"/>
 
 </div>
-
----
-
-## 🚀 Featured Project
-
-### 📊 Monitoring LPO System
-
-A web-based monitoring system designed to digitize production reporting and monitoring processes in an industrial environment.
-
-**Tech Stack**
-
-`Laravel` • `React` • `TypeScript` • `MySQL`
-
-**Features**
-
-- 🔐 Authentication
-- 📋 Production Monitoring
-- 📈 Dashboard & Reports
-- 👷 Attendance Management
-- 📄 Digital LPO Reporting
 
 ---
 
