@@ -1,117 +1,140 @@
-<h1 align="center">Hi 👋, I'm Naurah</h1>
-<h3 align="center">Industrial Informatics Engineering Student | Full Stack Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about building web applications that solve real-world industrial problems.
-</p>
+# 🌸 Hi, I'm Naurah! 👋
 
----
+### Industrial Informatics Engineering Student
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1200&color=F48FB1&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+TypeScript;Building+Useful+Things;Always+Learning+New+Things+🌸"/>
 
-- 🎓 Industrial Informatics Engineering Student
-- 💼 Currently developing **Monitoring LPO System**
-- 🌱 Learning **Laravel, React, TypeScript, Cloud Deployment**
-- 💡 Interested in **Web Development, Software Engineering, System Analysis**
-- 📍 Indonesia
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🌷 About Me
 
-<p align="left">
+```yaml
+name: Naurah
+location: Indonesia 🇮🇩
 
-<img src="https://skillicons.dev/icons?i=laravel,react,ts,js,php,mysql,git,github,vscode,tailwind,html,css" />
+education:
+  - Industrial Informatics Engineering
 
-</p>
+currently_building:
+  - Monitoring LPO System
 
----
+currently_learning:
+  - Laravel
+  - React
+  - TypeScript
+  - Cloud Deployment
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raaa-29&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaa-29&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=raaa-29&theme=tokyonight&hide_border=true"/>
-
-</p>
+interests:
+  - Web Development
+  - Software Engineering
+  - UI/UX
+  - Industrial Digitalization
+```
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raaa-29&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://skillicons.dev/icons?i=laravel,react,ts,js,php,mysql,tailwind,html,css,git,github,vscode,figma"/>
 
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Featured Project
 
-<p align="center">
+### 📊 Monitoring LPO System
 
-<img src="https://raw.githubusercontent.com/raaa-29/raaa-29/output/github-contribution-grid-snake-dark.svg"/>
+A web-based monitoring system designed to digitize production reporting and monitoring processes in an industrial environment.
 
-</p>
+**Tech Stack**
 
-> **Catatan:** Snake di atas baru akan muncul setelah kamu menambahkan GitHub Actions untuk menghasilkannya secara otomatis.
+`Laravel` • `React` • `TypeScript` • `MySQL`
+
+**Features**
+
+- 🔐 Authentication
+- 📋 Production Monitoring
+- 📈 Dashboard & Reports
+- 👷 Attendance Management
+- 📄 Digital LPO Reporting
+
+---
+
+## 👾 Contributions Adventure
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contribution-graph-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contribution-graph.svg">
+
+<img
+alt="Pac-Man Contribution Graph"
+src="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contribution-graph.svg">
+
+</picture>
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raaa-29&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- ☁️ Cloud Deployment
+- ⚡ REST API Development
+- 🏗️ Software Architecture
+- 📑 Functional Requirements Documentation (FRD)
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/raaa-29">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+&nbsp;&nbsp;&nbsp;
+
+<!-- Tambahkan LinkedIn kalau sudah punya -->
+<!--
+<a href="https://linkedin.com/in/USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+-->
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  
-## 👾 Contributions Adventure
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contribution-graph.svg">
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contribution-graph.svg">
-</picture>
+### 🌸 Thanks for visiting!
 
+*"Keep learning, keep building, and enjoy the journey."* ✨
 
-✨ *"Code. Learn. Improve. Repeat."* ✨
+૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-</p>
+</div>
