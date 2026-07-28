@@ -1,5 +1,5 @@
 <h1 align="center">Holla👋, I'm Naurah Kaltsum Azaria</h1>
-<h3 align="center">ndustrial Informatics Engineering student pPassionate about building impactful web applications.</h3>
+<h3 align="center">Industrial Informatics Engineering student Passionate about building impactful web applications.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
