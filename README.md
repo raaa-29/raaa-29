@@ -4,7 +4,6 @@
 
 ### Industrial Informatics Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1200&color=F48FB1&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+TypeScript;Building+Useful+Things;Always+Learning+New+Things+🌸"/>
 
 </div>
 
