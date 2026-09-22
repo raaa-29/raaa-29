@@ -9,39 +9,6 @@
 
 ---
 
-## 🌷 About Me
-
-```yaml
-name: Naurah
-location: Indonesia 🇮🇩
-
-education:
-  - Industrial Informatics Engineering
-
-currently_learning:
-  - Laravel
-  - React
-  - TypeScript
-  - Cloud Deployment
-
-interests:
-  - Web Development
-  - Software Engineering
-  - UI/UX
-  - Industrial Digitalization
-```
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,react,ts,js,php,mysql,tailwind,html,css,git,github,vscode,figma"/>
-
-</div>
-
----
 
 ## 👾 Contributions Adventure
 
@@ -65,15 +32,7 @@ src="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contributio
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raaa-29&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 ## 🌱 Currently Exploring
 
