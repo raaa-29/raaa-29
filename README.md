@@ -28,20 +28,6 @@ src="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contributio
 
 </picture>
 
-</div>
-
----
-
-
-
-## 🌱 Currently Exploring
-
-- ☁️ Cloud Deployment
-- ⚡ REST API Development
-- 🏗️ Software Architecture
-- 📑 Functional Requirements Documentation (FRD)
-
----
 
 ## 🌐 Connect with Me
 
