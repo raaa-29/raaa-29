@@ -28,34 +28,3 @@ src="https://raw.githubusercontent.com/raaa-29/raaa-29/output/pacman-contributio
 
 </picture>
 
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/raaa-29">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- Tambahkan LinkedIn kalau sudah punya -->
-<!--
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
--->
-
-</div>
-
----
-
-<div align="center">
-
-### 🌸 Thanks for visiting!
-
-*"Keep learning, keep building, and enjoy the journey."* ✨
-
-૮ ˶ᵔ ᵕ ᵔ˶ ა
-
-</div>
